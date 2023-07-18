@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "64b65aaac752a4c845daef7f"
+  },
+  "name": "Sore",
+  "birth": "1998-02-01",
+  "genre": "alternative"
+},
+{
+  "_id": {
+    "$oid": "64b65aaac752a4c845daef80"
+  },
+  "name": "Hindia",
+  "birth": "2018-02-01",
+  "genre": "Rock"
+},
+{
+  "_id": {
+    "$oid": "64b65aaac752a4c845daef81"
+  },
+  "name": "Bruno Major",
+  "birth": "1992-02-01",
+  "genre": "RnB"
+},
+{
+  "_id": {
+    "$oid": "64b65aaac752a4c845daef82"
+  },
+  "name": "Reality Club",
+  "birth": "2017-09-03",
+  "genre": "pop"
+},
+{
+  "_id": {
+    "$oid": "64b65aaac752a4c845daef83"
+  },
+  "name": "Lomba Sihir",
+  "birth": "2012-09-03",
+  "genre": "pop"
+},
+{
+  "_id": {
+    "$oid": "64b65aaac752a4c845daef84"
+  },
+  "name": "Noh Saleh",
+  "birth": "2022-09-03",
+  "genre": "pop"
+}]

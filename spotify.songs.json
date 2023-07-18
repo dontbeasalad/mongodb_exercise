@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "64b6531ac752a4c845daef75"
+  },
+  "title": "Karolina",
+  "artist": [
+    "sore"
+  ],
+  "album": "Ports of Lima"
+},
+{
+  "_id": {
+    "$oid": "64b654bec752a4c845daef76"
+  },
+  "title": "Evakuasi",
+  "artist": [
+    "Hindia"
+  ],
+  "album": "Menari dengan Bayangan"
+},
+{
+  "_id": {
+    "$oid": "64b6561bc752a4c845daef77"
+  },
+  "title": "Untuk Apa",
+  "artist": [
+    "Hindia"
+  ],
+  "album": "Menari dengan Bayangan"
+},
+{
+  "_id": {
+    "$oid": "64b6561bc752a4c845daef78"
+  },
+  "title": "Jam Makan Siang",
+  "artist": [
+    "Hindia"
+  ],
+  "album": "Menari dengan Bayangan"
+},
+{
+  "_id": {
+    "$oid": "64b6561bc752a4c845daef79"
+  },
+  "title": "Besok Mungkin Kita Sampai",
+  "artist": [
+    "Hindia"
+  ],
+  "album": "Menari dengan Bayangan"
+},
+{
+  "_id": {
+    "$oid": "64b6561bc752a4c845daef7a"
+  },
+  "title": "Dehidrasi",
+  "artist": [
+    "Hindia"
+  ],
+  "album": "Menari dengan Bayangan"
+},
+{
+  "_id": {
+    "$oid": "64b6584fc752a4c845daef7b"
+  },
+  "title": "Mungkin Takut Perubahan",
+  "artist": [
+    "Lomba Sihir"
+  ],
+  "album": "Selamat Datang di Ujung Dunia"
+},
+{
+  "_id": {
+    "$oid": "64b6584fc752a4c845daef7c"
+  },
+  "title": "Alexandra",
+  "artist": [
+    "Reality Club"
+  ],
+  "album": "What do You Really Know?"
+},
+{
+  "_id": {
+    "$oid": "64b6584fc752a4c845daef7d"
+  },
+  "title": "The Most Beautiful Thing",
+  "artist": [
+    "Bruno Major"
+  ],
+  "album": "To Let A Good Thing Die"
+},
+{
+  "_id": {
+    "$oid": "64b6584fc752a4c845daef7e"
+  },
+  "title": "Angin Kencang",
+  "artist": [
+    "Noh saleh"
+  ],
+  "album": "Angin Kencang"
+}]
